@@ -1,2 +1,1 @@
-# Exercicios-js
-Alguns exercícios de JavaScript para treinar lógica
+# Futuro-Projeto_here
